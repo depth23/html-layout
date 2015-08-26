@@ -1,0 +1,63 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    
+}
+.topLeftSquare {
+    height: 12%;
+    width: 12%;
+    background-color: #608edb;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    
+}
+.header {
+    height: 15%;
+    width: 100s%;
+    background-color: #d1d1d1;
+    
+}
+.paragraph {
+    height: 30%;
+    width: 100%;
+    background color: white;
+    float: left;
+    
+}
+.one {
+    height: 15%;
+    width: 100%;
+    background-color: #608edb;
+    float: left;
+    
+}
+.two {
+    height: 15%;
+    width: 100%;
+    background-color: turquoise;
+    float: left;
+    
+}
+.three {
+    height: 15%;
+    width: 100%;
+    background-color: #ccd68d;
+    float: left;
+    
+    
+}
+.footer {
+    height: 15%;
+    width: 100%;
+    background-color: yellow;
+    float: left;
+    
+}
+p {
+    width: 75%;
+    font-family: inherit;
+    font-size: 13px;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    
+}
